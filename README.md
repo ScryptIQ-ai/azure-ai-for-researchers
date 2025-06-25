@@ -31,13 +31,8 @@ azure-ai-for-researchers/
 
 ### Official Azure Documentation
 - [Azure Machine Learning Documentation](https://docs.microsoft.com/azure/machine-learning/)
-- [Azure AI Services Documentation](https://docs.microsoft.com/azure/cognitive-services/)
+- [Azure AI Foundry Documentation](https://docs.microsoft.com/azure/cognitive-services/)
 - [Azure for Students](https://azure.microsoft.com/free/students/)
-
-### Learning Paths
-- [Microsoft Learn: Azure AI Fundamentals](https://docs.microsoft.com/learn/paths/get-started-with-artificial-intelligence-on-azure/)
-- [Microsoft Learn: Azure Machine Learning](https://docs.microsoft.com/learn/paths/build-ai-solutions-with-azure-ml/)
 
 ### Community Resources
 - [Azure Machine Learning Community](https://techcommunity.microsoft.com/t5/azure-ai/ct-p/AzureAI)
-- [Azure for Research Program](https://www.microsoft.com/research/academic-program/azure-for-research/)
