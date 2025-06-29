@@ -1,6 +1,6 @@
 # Custom Vision 👁️
 
-In this repository you will find the data and notebooks used for the various Custom Vision examples in the scrypIQ course on Microsoft's Azure services.
+In this repository you will find the data and notebooks used for the various Custom Vision examples in the Learn To Discover's course on Microsoft's Azure services.
 
 - The Multi-Class Classification example focuses on [cancer_dataset](./cancer_dataset)
 - The Multi-Label Classification example focuses on [fruitbowl_dataset](./fruitbowl_dataset)

@@ -15,17 +15,17 @@ azure-ai-for-researchers/
 
 ## 📚 What's Included
 
-### AI Services (`ai_services/`)
+### [AI Services](./ai_services/)
 
 - Multi-Class Classification cancer dataset (`cancer_dataset`)
 - Fruitbowl Multi-Label Classification dataset (`fruitbowl_dataset`)
 - Wildlife Multi-Label Classification dataset (`wildlife_classification`)
 
-### Machine Learning Studio (`ml_studio/`)
+### [Machine Learning Studio](./ml_studio/)
 
 - PyTorch Demo (`pytorch_demo.ipynb`)
 - PyTorch Azure ML Jobs (`pytorch_aml.ipynb`)
-
+- Wine Quality dataset (`winequality.csv`)
 
 ## 📖 Additional Resources
 
