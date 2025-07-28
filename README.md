@@ -1,6 +1,6 @@
 # Azure AI for Researchers
 
-This repository contains all the data and additional educational resources presented in Learn To Discover's guide to [Microsoft's Azure AI for Researchers](). Please download any and all of the content to work alonside our tutorials, even augmenting them for use with your data. 
+This repository contains all the data and additional educational resources presented in Learn To Discover's guide to [Microsoft's Azure AI for Researchers](https://learntodiscover.ai/shared/scryptiq/homepage/main.html). Please download any and all of the content to work alonside our tutorials, even augmenting them for use with your data. 
 
 For any problems please open an issue and we'll endeavor to fix it quickly.
 
